@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/not-mine__todo/static/css/main.e94a1534.css",
+    "main.js": "/not-mine__todo/static/js/main.bbe846cb.js",
+    "index.html": "/not-mine__todo/index.html",
+    "main.e94a1534.css.map": "/not-mine__todo/static/css/main.e94a1534.css.map",
+    "main.bbe846cb.js.map": "/not-mine__todo/static/js/main.bbe846cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e94a1534.css",
+    "static/js/main.bbe846cb.js"
+  ]
+}
