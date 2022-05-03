@@ -76,7 +76,6 @@
 
 .todos__heading {
   font-size: 30px;
-  /* text-align: center; */
   color: white;
 }
 
@@ -130,7 +129,7 @@
     flex-direction: column;
   }
   .todos {
-    width: 95%;
+    width: 100%;
     margin-bottom: 10px;
   }
 }
